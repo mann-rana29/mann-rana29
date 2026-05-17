@@ -1,8 +1,8 @@
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 <p>
-  Hello There! <em><b>I'm Mann</b></em>, an AI/ML student who loves building 
-  backend systems and APIs. I ship <br/> late night ideas as real products. Always exploring the intersection of
+  Hello There! <em><b>I'm Mann</b></em>, I love building 
+  backend systems and APIs. I ship late night ideas as real products. Always exploring the intersection of
   AI/ML and backend engineering.
 </p>
 
