@@ -1,14 +1,10 @@
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 <p>
-  Hello There! <em><b>I'm Mann</b></em>, I love building 
-  backend systems and APIs. I ship late night ideas as real products. Always exploring the intersection of
-  AI/ML and backend engineering.
+  Hello There! <em><b>I'm Mann</b></em>,<br> I love building 
+  backend systems and APIs. I ship late night ideas as real products.
+  <!-- <br> Always exploring the intersection of AI/ML and backend engineering. -->
 </p>
-
-
-<!-- Connect badges -->
-
 
 <br/>
 
@@ -46,18 +42,19 @@
 
 <br/>
 
-<!-- Stats — using github-readme-stats with cache param for stability -->
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mann-rana29&show_icons=true&theme=dark&bg_color=000000&title_color=e6b400&icon_color=e6b400&text_color=ffffff&border_color=333333&cache_seconds=86400&hide_border=false" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann-rana29&layout=compact&theme=dark&bg_color=000000&title_color=e6b400&text_color=ffffff&border_color=333333&cache_seconds=86400&langs_count=6" height="160" />
-</p> -->
 
-<!-- Streak stats — separate service, more reliable -->
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mann-rana29&theme=dark&background=000000&ring=e6b400&fire=e6b400&currStreakLabel=e6b400&sideLabels=ffffff&dates=888888&border=333333"  />
-</p> -->
+<p> <b>things i've built </b> </p>
 
+   &nbsp;·&nbsp;<a href="https://github.com/ChokhoAI">Chokho AI</a> (2026) <br>
+   &nbsp;·&nbsp;<a href="https://github.com/mann-rana29/Dagadya">Dagadaya</a> (2026) <br>
+   &nbsp;·&nbsp;<a href="https://github.com/mann-rana29/DrawMind">DrawMind</a> (2025) <br>
+   &nbsp;·&nbsp;<a href="https://github.com/mann-rana29/Twisted-Tic-Tac-toe">Twisted Tic Tac Toe</a> (2024)
+
+<div>
+
+</div>
+
+<br/>
 <!-- Activity graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mann-rana29&bg_color=000000&color=ffffff&line=e6b400&point=ffffff&area=true&hide_border=false" width="100%"/>
