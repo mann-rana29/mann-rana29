@@ -20,9 +20,9 @@
   <a href="https://leetcode.com/u/mann60/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=e6b400" />
   </a>
-  <a href="mailto:mannworks247@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://m4nn.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
 </p>
 <br/>
 
