@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
- <a href="https://linkedin.com/in/mann-rana-024331275/">
+ <a href="https://linkedin.com/in/mann-rana29">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white&color=000000" />
 </a>
   <a href="https://leetcode.com/u/mann60/">
