@@ -8,11 +8,6 @@
 
 <br/>
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=E6B400&center=true&vCenter=true&width=500&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;AI%2FML+Developer+%7C+FastAPI+%26+Python;" alt="Typing SVG" />
-</p>
-
 <p align="center">
  <a href="https://linkedin.com/in/mann-rana29">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white&color=000000" />
@@ -25,23 +20,6 @@
 </a>
 </p>
 <br/>
-
-<!-- Tech badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/PostGIS-000000?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> -->
-</p>
-
-<br/>
-
 
 <p> <b>things i've built </b> </p>
 
