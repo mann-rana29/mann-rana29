@@ -21,7 +21,7 @@
 </p>
 <br/>
 
-<p> <b>things i've built </b> </p>
+<p> <b>stuff i am proud of </b> </p>
 
    &nbsp;·&nbsp;<a href="https://github.com/ChokhoAI">Chokho AI</a> (2026) <br>
    &nbsp;·&nbsp;<a href="https://github.com/mann-rana29/Dagadya">Dagadaya</a> (2026) <br>
