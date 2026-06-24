@@ -12,4 +12,4 @@
 
 > ### stuff i vibecoded
 
-* <a href="https://github.com/mann-rana29/Portfolio">Portfolio</a>
+* <a href="https://github.com/mann-rana29/Portfolio">Portfolio</a> (2026)
