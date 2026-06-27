@@ -13,3 +13,6 @@
 > ### stuff i vibecoded
 
 * <a href="https://github.com/mann-rana29/Portfolio">Portfolio</a> (2026)
+
+> ### my stack
+  [![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,ts,spring,fastapi,redis,postgresql,mysql,docker,git,github,postman,tailwind,next,react)](https://skillicons.dev)
