@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDFybTdkeHY4OHZ0M2xveGowZHFiaWVlYXdkeXVuYmcwYjM1ZzBpMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="450" />
+  <!-- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDFybTdkeHY4OHZ0M2xveGowZHFiaWVlYXdkeXVuYmcwYjM1ZzBpMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="450" /> -->
+
+  <img src="./banner" width="500" height="300" />
 </p>
 
 > ### stuff i built
