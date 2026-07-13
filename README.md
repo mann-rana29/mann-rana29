@@ -11,9 +11,13 @@
 * <a href="https://github.com/mann-rana29/Ojas-Sports-Fest-Registration-System">Ojas - Sports Fest Registration System</a> (2025)
 * <a href="https://github.com/mann-rana29/Twisted-Tic-Tac-toe">Twisted Tic Tac Toe</a> (2024)
 
-> ### stuff i vibecoded
+> ### stuff i vibecoded 
 
 * <a href="https://github.com/mann-rana29/Portfolio">Portfolio</a> (2026)
 
+> ### currently working on
+- <a href="https://github.com/mann-rana29/Cereberus-OS">Cereberus OS</a>
+- <a href="https://github.com/mann-rana29/QuantixOne-Lead-Scoring-System">Lead Scoring System</a>
+
 > ### my stack
-  [![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,ts,spring,fastapi,redis,postgresql,mysql,kafka,docker,git,github,postman,tailwind,next,react,idea,vscode,md,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,ts,spring,fastapi,redis,postgresql,mysql,sqlite,kafka,docker,git,github,postman,tailwind,next,react,idea,vscode,md,)](https://skillicons.dev)
