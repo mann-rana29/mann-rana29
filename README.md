@@ -13,7 +13,7 @@
 * <a href="https://github.com/mann-rana29/Twisted-Tic-Tac-toe">Twisted Tic Tac Toe</a> (2024)
 
 > ### currently working on
-
+- <a href="https://github.com/mann-rana29/Ghumi-Ghumi" >Ghumi-Ghumi</a>
 
 > ### my stack
   [![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,ts,spring,fastapi,redis,postgresql,mysql,sqlite,kafka,docker,git,github,postman,tailwind,next,react,idea,vscode,md,)](https://skillicons.dev)
