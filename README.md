@@ -5,9 +5,9 @@
 
 > ### stuff i built
 
-* <a href="https://github.com/ChokhoAI">Chokho AI</a> (2026)
-* <a href="https://github.com/mann-rana29/Dagadya">Dagadya</a> (2026)
 * <a href="https://github.com/mann-rana29/Cereberus-OS">Cereberus OS</a> (2026)
+* <a href="https://github.com/mann-rana29/Dagadya">Dagadya</a> (2026)
+* <a href="https://github.com/ChokhoAI">Chokho AI</a> (2026) 
 * <a href="https://github.com/mann-rana29/DrawMind">DrawMind</a> (2025)
 * <a href="https://github.com/mann-rana29/Ojas-Sports-Fest-Registration-System">Ojas - Sports Fest Registration System</a> (2025)
 * <a href="https://github.com/mann-rana29/Twisted-Tic-Tac-toe">Twisted Tic Tac Toe</a> (2024)
