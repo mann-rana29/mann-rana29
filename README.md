@@ -13,7 +13,7 @@
 * <a href="https://github.com/mann-rana29/Twisted-Tic-Tac-toe">Twisted Tic Tac Toe</a> (2024)
 
 > ### currently working on
-- <a href="https://github.com/mann-rana29/Ghumi-Ghumi" >Ghumi-Ghumi</a>
+- <a href="https://github.com/mann-rana29/agent-family" >Agent Family</a>
 - <a href="https://github.com/mann-rana29/Dagdaya-v2" >Dagdaya v2</a>
 
 
