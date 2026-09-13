@@ -15,6 +15,7 @@
 > ### currently working on
 - <a href="https://github.com/mann-rana29/Dagdaya-v2" >Dagdaya v2</a>
 - <a href="https://github.com/mann-rana29/Gambhir-Eleven"> Gambhir Eleven </a>
+- <a href="https://github.com/mann-rana29/Sherlock-Ops"> Sherlock Ops </a>
 
 
 > ### my stack
